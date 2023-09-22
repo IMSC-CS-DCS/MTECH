@@ -4,4 +4,4 @@
 
 2. [Mtech AI&SE syllabus link](https://dcs.cusat.ac.in/assets/pdf-files/program-structure/mtech-software-structure-2021.pdf)
 
-3. [Machine Learning Materials](../Machine Learning)
+3. [Machine Learning Materials](/Machine%20Learning)
